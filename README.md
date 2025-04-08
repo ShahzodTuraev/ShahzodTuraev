@@ -34,17 +34,35 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
+  </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/>
+  </a>
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+   <a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -83,6 +101,12 @@ Here are some ideas to get you started:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+    <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pm2io/pm2io-ar21.svg" alt="pm2" width="40" height="40"/>
+  </a>
+    <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="40" height="40"/>
+  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
@@ -101,29 +125,14 @@ Here are some ideas to get you started:
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+  
 </p>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!--START_SECTION:waka-->
-
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
